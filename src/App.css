@@ -6,6 +6,28 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbarbrand
+{
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  /* margin: 10px 10px 10px 10px; */
+}
+.location
+{
+  width: 5%;
+  height: 30%;
+  margin-left:0.3rem;
+}
+
+.mr-sm-2
+{
+  margin-left: 15rem;
+}
+
+.caterLogo{
+  width: 25%;
+  height: 12%;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
