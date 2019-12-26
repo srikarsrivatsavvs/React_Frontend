@@ -12,6 +12,13 @@
   padding-bottom: 0rem;
   /* margin: 10px 10px 10px 10px; */
 }
+.bgcolor
+{
+  background-color: #292722;
+}
+body{
+  color: white;
+}
 .location
 {
   width: 5%;

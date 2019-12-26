@@ -1,6 +1,8 @@
 import React from "react";
 import Jumbotron from 'react-bootstrap/Jumbotron';
 import Button from 'react-bootstrap/Button';
+import "../App.css";
+
 
 
 export default function Footer() 
@@ -13,7 +15,7 @@ export default function Footer()
     Millions of people around the world have already made Catersmart the place where their dream happens.
   </p>
   <p>
-    <Button variant="primary">Enquire Now</Button>
+    <Button variant="btn btn-light">Enquire Now</Button>
   </p>
   </Jumbotron></div>
   
